@@ -55,7 +55,7 @@
     "@semantic-release/github": "^5.2.10",
     "@semantic-release/npm": "^5.1.4",
     "@semantic-release/release-notes-generator": "^7.1.4",
-    "codecov": "^3.2.0",
+    "codecov": "^3.6.5",
     "eslint": "^5.14.1",
     "jest": "^24.1.0",
     "semantic-release": "^15.13.3",
